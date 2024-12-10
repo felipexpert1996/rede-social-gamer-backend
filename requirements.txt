@@ -1,6 +1,5 @@
 asgiref==3.8.1
 attrs==23.2.0
-backports.zoneinfo==0.2.1
 dj-rest-auth==6.0.0
 Django==4.2.14
 django-cors-headers==4.4.0
